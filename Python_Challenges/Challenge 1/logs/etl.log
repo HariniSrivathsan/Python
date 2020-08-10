@@ -1,0 +1,834 @@
+2020-08-01 17:24:58,062 - Civis Project Main - main - INFO - Going to create tables.
+2020-08-01 17:24:58,063 - Civis - Making dataset. - make_dataset - INFO - Creating tables
+2020-08-01 17:24:58,063 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-01 17:24:58,063 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-01 17:24:58,074 - Civis - Making dataset. - make_dataset - INFO - Running the sql statements
+2020-08-01 18:29:48,642 - Civis Project Main - main - INFO - Going to create tables.
+2020-08-01 18:29:48,642 - Civis - Making dataset. - make_dataset - INFO - Creating tables
+2020-08-01 18:29:48,643 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-01 18:29:48,643 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-01 18:29:48,653 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-01 18:29:48,653 - Civis - Making dataset. - make_dataset - INFO - Running the sql statements
+2020-08-01 18:29:52,555 - Civis Project Main - main - INFO - Going to create tables.
+2020-08-01 18:29:52,555 - Civis - Making dataset. - make_dataset - INFO - Creating tables
+2020-08-01 18:29:52,555 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-01 18:29:52,556 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-01 18:29:52,567 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-01 18:29:52,567 - Civis - Making dataset. - make_dataset - INFO - Running the sql statements
+2020-08-01 18:31:29,250 - Civis Project Main - main - INFO - Going to create tables.
+2020-08-01 18:31:29,250 - Civis - Making dataset. - make_dataset - INFO - Creating tables
+2020-08-01 18:31:29,250 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-01 18:31:29,250 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-01 18:31:29,260 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-01 18:31:29,260 - Civis - Making dataset. - make_dataset - INFO - Running the sql statements
+2020-08-01 18:32:15,943 - Civis Project Main - main - INFO - Going to create tables.
+2020-08-01 18:32:15,943 - Civis - Making dataset. - make_dataset - INFO - Creating tables
+2020-08-01 18:32:15,943 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-01 18:32:15,943 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-01 18:32:15,951 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-01 18:32:15,951 - Civis - Making dataset. - make_dataset - INFO - Running the sql statements
+2020-08-01 18:32:16,106 - Civis Project Main - main - INFO - Time taken for ETL: 4.584385289086236e-05 hours.
+2020-08-01 18:37:19,884 - Civis Project Main - main - INFO - Going to create tables.
+2020-08-01 18:37:19,884 - Civis - Making dataset. - make_dataset - INFO - Creating tables
+2020-08-01 18:37:19,884 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-01 18:37:19,885 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-01 18:37:19,896 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-01 18:37:19,896 - Civis - Making dataset. - make_dataset - INFO - Running the sql statements
+2020-08-01 18:37:19,898 - Civis Project Main - main - INFO - Populating tables
+2020-08-01 18:37:19,898 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-01 18:37:19,898 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-01 18:37:19,905 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-01 18:37:19,905 - Civis - Making dataset. - make_dataset - INFO - Running the sql statements
+2020-08-01 18:39:23,065 - Civis Project Main - main - INFO - Going to create tables.
+2020-08-01 18:39:23,065 - Civis - Making dataset. - make_dataset - INFO - Creating tables
+2020-08-01 18:39:23,066 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-01 18:39:23,066 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-01 18:39:23,076 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-01 18:39:23,076 - Civis - Making dataset. - make_dataset - INFO - Running the sql statements
+2020-08-01 18:39:23,077 - Civis Project Main - main - INFO - Populating tables
+2020-08-01 18:39:23,077 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-01 18:39:23,077 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-01 18:39:23,087 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-01 18:39:23,088 - Civis - Making dataset. - make_dataset - INFO - Running the sql statements
+2020-08-01 18:40:25,346 - Civis Project Main - main - INFO - Going to create tables.
+2020-08-01 18:40:25,346 - Civis - Making dataset. - make_dataset - INFO - Creating tables
+2020-08-01 18:40:25,347 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-01 18:40:25,347 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-01 18:40:25,357 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-01 18:40:25,357 - Civis - Making dataset. - make_dataset - INFO - Running the sql statements
+2020-08-01 18:40:25,358 - Civis Project Main - main - INFO - Populating tables
+2020-08-01 18:40:25,358 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-01 18:40:25,359 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-01 18:40:25,367 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-01 18:40:25,367 - Civis - Making dataset. - make_dataset - INFO - Running the sql statements
+2020-08-01 18:41:10,657 - Civis Project Main - main - INFO - Going to create tables.
+2020-08-01 18:41:10,657 - Civis - Making dataset. - make_dataset - INFO - Creating tables
+2020-08-01 18:41:10,658 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-01 18:41:10,658 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-01 18:41:10,668 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-01 18:41:10,668 - Civis - Making dataset. - make_dataset - INFO - Running the sql statements
+2020-08-01 18:41:10,669 - Civis Project Main - main - INFO - Populating tables
+2020-08-01 18:41:10,669 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-01 18:41:10,669 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-01 18:41:10,678 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-01 18:41:10,678 - Civis - Making dataset. - make_dataset - INFO - Running the sql statements
+2020-08-01 18:41:10,804 - Civis Project Main - main - INFO - Time taken for ETL: 4.1156278716193304e-05 hours.
+2020-08-02 13:01:09,107 - Civis Project Main - main - INFO - Going to create tables.
+2020-08-02 13:01:09,107 - Civis - Making dataset. - make_dataset - INFO - Creating tables
+2020-08-02 13:01:09,107 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-02 13:01:09,107 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-02 13:01:09,121 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-02 13:01:09,121 - Civis - Making dataset. - make_dataset - INFO - Running the sql statements
+2020-08-02 13:02:08,333 - Civis Project Main - main - INFO - Going to create tables.
+2020-08-02 13:02:08,333 - Civis - Making dataset. - make_dataset - INFO - Creating tables
+2020-08-02 13:02:08,334 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-02 13:02:08,334 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-02 13:02:08,344 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-02 13:02:08,344 - Civis - Making dataset. - make_dataset - INFO - Running the sql statements
+2020-08-02 13:05:48,340 - Civis Project Main - main - INFO - Going to create tables.
+2020-08-02 13:05:48,340 - Civis - Making dataset. - make_dataset - INFO - Creating tables
+2020-08-02 13:05:48,340 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-02 13:05:48,340 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-02 13:05:48,350 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-02 13:05:48,351 - Civis - Making dataset. - make_dataset - INFO - Running the sql statements
+2020-08-02 14:41:44,221 - Civis Project Main - main - INFO - Going to create tables.
+2020-08-02 14:41:44,222 - Civis - Making dataset. - make_dataset - INFO - Creating tables
+2020-08-02 14:41:44,222 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-02 14:41:44,222 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-02 14:41:44,233 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-02 14:41:44,233 - Civis - Making dataset. - make_dataset - INFO - Running the sql statements
+2020-08-02 14:41:44,337 - Civis Project Main - main - INFO - Populating tables
+2020-08-02 14:41:44,337 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-02 14:41:44,338 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-02 14:41:44,354 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-02 14:41:44,354 - Civis - Making dataset. - make_dataset - INFO - Running the sql statements
+2020-08-02 14:41:44,445 - Civis Project Main - main - INFO - Time taken for ETL: 6.25243451860216e-05 hours.
+2020-08-02 14:53:17,582 - Civis Project Main - main - INFO - Going to create tables.
+2020-08-02 14:53:17,583 - Civis - Making dataset. - make_dataset - INFO - Creating tables
+2020-08-02 14:53:17,583 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-02 14:53:17,583 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-02 14:53:17,595 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-02 14:53:17,596 - Civis - Making dataset. - make_dataset - INFO - Running the sql statements
+2020-08-02 14:53:17,679 - Civis Project Main - main - INFO - ETL
+2020-08-02 14:53:17,679 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-02 14:53:17,681 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-02 14:53:17,695 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-02 14:53:17,696 - Civis - Making dataset. - make_dataset - INFO - Running the sql statements
+2020-08-02 14:53:17,809 - Civis Project Main - main - INFO - Time taken for ETL: 6.326251559787327e-05 hours.
+2020-08-04 16:04:26,050 - Civis Project Main - main - INFO - Doing Exploratory Data Analysis...
+2020-08-04 16:07:20,294 - Civis Project Main - main - INFO - Doing Exploratory Data Analysis...
+2020-08-04 16:12:39,463 - Civis Project Main - main - INFO - Doing Exploratory Data Analysis...
+2020-08-04 16:15:46,050 - Civis Project Main - main - INFO - Doing Exploratory Data Analysis...
+2020-08-04 16:18:56,587 - Civis Project Main - main - INFO - Doing Exploratory Data Analysis...
+2020-08-04 16:22:25,290 - Civis Project Main - main - INFO - Doing Exploratory Data Analysis...
+2020-08-04 16:24:29,335 - Civis Project Main - main - INFO - Doing Exploratory Data Analysis...
+2020-08-04 16:30:58,210 - Civis Project Main - main - INFO - Doing Exploratory Data Analysis...
+2020-08-04 16:33:31,039 - Civis Project Main - main - INFO - Doing Exploratory Data Analysis...
+2020-08-04 16:33:48,607 - Civis Project Main - main - INFO - Doing Exploratory Data Analysis...
+2020-08-04 16:34:28,663 - Civis Project Main - main - INFO - Doing Exploratory Data Analysis...
+2020-08-04 16:34:58,921 - Civis Project Main - main - INFO - Standardizing 7-Eleven business name...
+2020-08-04 16:34:59,015 - Civis Project Main - main - INFO - Stored the standardized inspections file: ../processed/cleansed_inspections.csv
+2020-08-04 16:34:59,015 - Civis Project Main - main - INFO - Creating Dataset in local Postgres...
+2020-08-04 16:34:59,015 - Civis Project Main - main - INFO - Creating tables...
+2020-08-04 16:34:59,015 - Civis - Making dataset. - make_dataset - INFO - Creating tables
+2020-08-04 16:34:59,015 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-04 16:34:59,015 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-04 16:34:59,107 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-04 16:34:59,108 - Civis - Making dataset. - make_dataset - INFO - Running the sql statements
+2020-08-04 16:34:59,110 - Civis Project Main - main - INFO - Populating tables...
+2020-08-04 16:34:59,110 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-04 16:34:59,111 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-04 16:34:59,122 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-04 16:34:59,123 - Civis - Making dataset. - make_dataset - INFO - Running the sql statements
+2020-08-04 16:34:59,253 - Civis Project Main - main - INFO - Doing ETL...
+2020-08-04 16:34:59,254 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-04 16:34:59,254 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-04 16:34:59,270 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-04 16:34:59,270 - Civis - Making dataset. - make_dataset - INFO - Running the sql statements
+2020-08-06 20:08:39,724 - Civis Project Main - main - INFO - Creating Dataset in local Postgres...
+2020-08-06 20:08:39,724 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:08:39,724 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:08:39,735 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:08:39,735 - Civis - Making dataset. - make_dataset - INFO - Running task: create raw tables
+2020-08-06 20:08:39,736 - Civis Project Main - main - INFO - Time taken for executing create raw tables: 3.442300690544976e-06 hours.
+2020-08-06 20:08:39,736 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:08:39,737 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:08:39,750 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:08:39,750 - Civis - Making dataset. - make_dataset - INFO - Running task: truncate tables creation
+2020-08-06 20:08:39,886 - Civis Project Main - main - INFO - Time taken for executing truncate tables creation: 4.157702128092448e-05 hours.
+2020-08-06 20:08:39,887 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:08:39,888 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:08:39,901 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:08:39,902 - Civis - Making dataset. - make_dataset - INFO - Running task: load raw tables
+2020-08-06 20:08:40,013 - Civis Project Main - main - INFO - Time taken for executing load raw tables: 3.487812148200141e-05 hours.
+2020-08-06 20:08:40,013 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:08:40,014 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:08:40,030 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:08:40,030 - Civis - Making dataset. - make_dataset - INFO - Running task: destination tables creation
+2020-08-06 20:08:40,139 - Civis Project Main - main - INFO - Time taken for executing destination tables creation: 3.475315041012234e-05 hours.
+2020-08-06 20:08:40,139 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:08:40,140 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:08:40,154 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:08:40,155 - Civis - Making dataset. - make_dataset - INFO - Running task: truncate destination tables
+2020-08-06 20:08:40,316 - Civis Project Main - main - INFO - Time taken for executing truncate destination tables: 4.920376671685113e-05 hours.
+2020-08-06 20:08:40,317 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:08:40,318 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:08:40,334 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:08:40,334 - Civis - Making dataset. - make_dataset - INFO - Running task: inspection etl
+2020-08-06 20:11:10,392 - Civis Project Main - main - INFO - Creating Dataset in local Postgres...
+2020-08-06 20:11:10,392 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:11:10,393 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:11:10,403 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:11:10,404 - Civis - Making dataset. - make_dataset - INFO - Running task: create raw tables
+2020-08-06 20:11:10,405 - Civis Project Main - main - INFO - Time taken for executing create raw tables: 3.4691890080769857e-06 hours.
+2020-08-06 20:11:10,405 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:11:10,405 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:11:10,418 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:11:10,418 - Civis - Making dataset. - make_dataset - INFO - Running task: truncate tables creation
+2020-08-06 20:11:10,569 - Civis Project Main - main - INFO - Time taken for executing truncate tables creation: 4.539231459299723e-05 hours.
+2020-08-06 20:11:10,569 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:11:10,569 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:11:10,578 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:11:10,579 - Civis - Making dataset. - make_dataset - INFO - Running task: load raw tables
+2020-08-06 20:11:10,698 - Civis Project Main - main - INFO - Time taken for executing load raw tables: 3.578106562296549e-05 hours.
+2020-08-06 20:11:10,698 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:11:10,699 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:11:10,714 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:11:10,714 - Civis - Making dataset. - make_dataset - INFO - Running task: destination tables creation
+2020-08-06 20:11:10,715 - Civis Project Main - main - INFO - Time taken for executing destination tables creation: 4.626512527465821e-06 hours.
+2020-08-06 20:11:10,715 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:11:10,715 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:11:10,724 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:11:10,725 - Civis - Making dataset. - make_dataset - INFO - Running task: truncate destination tables
+2020-08-06 20:11:10,875 - Civis Project Main - main - INFO - Time taken for executing truncate destination tables: 4.4244395362006295e-05 hours.
+2020-08-06 20:11:10,875 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:11:10,875 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:11:10,883 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:11:10,883 - Civis - Making dataset. - make_dataset - INFO - Running task: inspection etl
+2020-08-06 20:17:01,944 - Civis Project Main - main - INFO - Creating Dataset in local Postgres...
+2020-08-06 20:17:01,944 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:17:01,945 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:17:01,955 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:17:01,955 - Civis - Making dataset. - make_dataset - INFO - Running task: create raw tables
+2020-08-06 20:17:01,956 - Civis Project Main - main - INFO - Time taken for executing create raw tables: 3.3293830023871527e-06 hours.
+2020-08-06 20:17:01,957 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:17:01,957 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:17:01,966 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:17:01,966 - Civis - Making dataset. - make_dataset - INFO - Running task: truncate tables creation
+2020-08-06 20:17:02,116 - Civis Project Main - main - INFO - Time taken for executing truncate tables creation: 4.4278833601209855e-05 hours.
+2020-08-06 20:17:02,117 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:17:02,117 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:17:02,129 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:17:02,129 - Civis - Making dataset. - make_dataset - INFO - Running task: load raw tables
+2020-08-06 20:17:02,256 - Civis Project Main - main - INFO - Time taken for executing load raw tables: 3.867467244466146e-05 hours.
+2020-08-06 20:17:02,257 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:17:02,257 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:17:02,271 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:17:02,272 - Civis - Making dataset. - make_dataset - INFO - Running task: destination tables creation
+2020-08-06 20:17:02,273 - Civis Project Main - main - INFO - Time taken for executing destination tables creation: 4.468560218811035e-06 hours.
+2020-08-06 20:17:02,273 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:17:02,273 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:17:02,282 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:17:02,282 - Civis - Making dataset. - make_dataset - INFO - Running task: truncate destination tables
+2020-08-06 20:17:02,392 - Civis Project Main - main - INFO - Time taken for executing truncate destination tables: 3.2946003807915584e-05 hours.
+2020-08-06 20:17:02,392 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:17:02,393 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:17:02,406 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:17:02,406 - Civis - Making dataset. - make_dataset - INFO - Running task: inspection etl
+2020-08-06 20:17:02,711 - Civis Project Main - main - INFO - Time taken for executing inspection etl: 8.864932590060763e-05 hours.
+2020-08-06 20:17:02,712 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:17:02,712 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:17:02,726 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:17:02,726 - Civis - Making dataset. - make_dataset - INFO - Running task: license etl
+2020-08-06 20:50:19,262 - Civis Project Main - main - INFO - Creating Dataset in local Postgres...
+2020-08-06 20:50:19,262 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:50:19,262 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:50:19,272 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:50:19,273 - Civis - Making dataset. - make_dataset - INFO - Running task: create raw tables
+2020-08-06 20:50:19,274 - Civis - Making dataset. - make_dataset - INFO - create raw tables successful
+2020-08-06 20:50:19,274 - Civis Project Main - main - INFO - Time taken for executing create raw tables: 3.4063392215304906e-06 hours.
+2020-08-06 20:50:19,274 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:50:19,274 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:50:19,282 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:50:19,282 - Civis - Making dataset. - make_dataset - INFO - Running task: truncate tables creation
+2020-08-06 20:50:19,422 - Civis - Making dataset. - make_dataset - INFO - truncate tables creation successful
+2020-08-06 20:50:19,423 - Civis Project Main - main - INFO - Time taken for executing truncate tables creation: 4.136482874552409e-05 hours.
+2020-08-06 20:50:19,423 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:50:19,424 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:50:19,437 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:50:19,438 - Civis - Making dataset. - make_dataset - INFO - Running task: load raw tables
+2020-08-06 20:50:19,577 - Civis - Making dataset. - make_dataset - INFO - load raw tables successful
+2020-08-06 20:50:19,577 - Civis Project Main - main - INFO - Time taken for executing load raw tables: 4.277163081698947e-05 hours.
+2020-08-06 20:50:19,577 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:50:19,578 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:50:19,589 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:50:19,589 - Civis - Making dataset. - make_dataset - INFO - Running task: destination tables creation
+2020-08-06 20:50:19,590 - Civis - Making dataset. - make_dataset - INFO - destination tables creation successful
+2020-08-06 20:50:19,591 - Civis Project Main - main - INFO - Time taken for executing destination tables creation: 3.660387463039822e-06 hours.
+2020-08-06 20:50:19,591 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:50:19,591 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:50:19,601 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:50:19,601 - Civis - Making dataset. - make_dataset - INFO - Running task: truncate destination tables
+2020-08-06 20:50:19,748 - Civis - Making dataset. - make_dataset - INFO - truncate destination tables successful
+2020-08-06 20:50:19,748 - Civis Project Main - main - INFO - Time taken for executing truncate destination tables: 4.379868507385254e-05 hours.
+2020-08-06 20:50:19,749 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:50:19,750 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:50:19,763 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:50:19,764 - Civis - Making dataset. - make_dataset - INFO - Running task: inspection etl
+2020-08-06 20:50:20,075 - Civis - Making dataset. - make_dataset - INFO - inspection etl successful
+2020-08-06 20:50:20,075 - Civis Project Main - main - INFO - Time taken for executing inspection etl: 9.067356586456299e-05 hours.
+2020-08-06 20:50:20,076 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:50:20,076 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:50:20,091 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:50:20,092 - Civis - Making dataset. - make_dataset - INFO - Running task: license etl
+2020-08-06 20:50:20,093 - Civis - Making dataset. - make_dataset - INFO - license etl successful
+2020-08-06 20:51:47,073 - Civis Project Main - main - INFO - Creating Dataset in local Postgres...
+2020-08-06 20:51:47,073 - Civis Project Main - main - INFO - Executing ./sql/create_raw_tables.sql
+2020-08-06 20:51:47,073 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:51:47,074 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:51:47,088 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:51:47,088 - Civis - Making dataset. - make_dataset - INFO - Running task: create raw tables
+2020-08-06 20:51:47,089 - Civis - Making dataset. - make_dataset - INFO - create raw tables successful
+2020-08-06 20:51:47,089 - Civis Project Main - main - INFO - Time taken for executing create raw tables: 4.365245501200358e-06 hours.
+2020-08-06 20:51:47,089 - Civis Project Main - main - INFO - Executing ./sql/truncate_tables.sql
+2020-08-06 20:51:47,089 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:51:47,090 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:51:47,099 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:51:47,099 - Civis - Making dataset. - make_dataset - INFO - Running task: truncate tables creation
+2020-08-06 20:51:47,218 - Civis - Making dataset. - make_dataset - INFO - truncate tables creation successful
+2020-08-06 20:51:47,218 - Civis Project Main - main - INFO - Time taken for executing truncate tables creation: 3.582921293046739e-05 hours.
+2020-08-06 20:51:47,219 - Civis Project Main - main - INFO - Executing ./sql/load_raw_tables.sql
+2020-08-06 20:51:47,219 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:51:47,220 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:51:47,230 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:51:47,230 - Civis - Making dataset. - make_dataset - INFO - Running task: load raw tables
+2020-08-06 20:51:47,344 - Civis - Making dataset. - make_dataset - INFO - load raw tables successful
+2020-08-06 20:51:47,345 - Civis Project Main - main - INFO - Time taken for executing load raw tables: 3.501872221628825e-05 hours.
+2020-08-06 20:51:47,345 - Civis Project Main - main - INFO - Executing ./sql/create_destination_tables.sql
+2020-08-06 20:51:47,346 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:51:47,347 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:51:47,360 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:51:47,361 - Civis - Making dataset. - make_dataset - INFO - Running task: destination tables creation
+2020-08-06 20:51:47,362 - Civis - Making dataset. - make_dataset - INFO - destination tables creation successful
+2020-08-06 20:51:47,362 - Civis Project Main - main - INFO - Time taken for executing destination tables creation: 4.5525365405612525e-06 hours.
+2020-08-06 20:51:47,362 - Civis Project Main - main - INFO - Executing ./sql/truncate_destination_tables.sql
+2020-08-06 20:51:47,362 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:51:47,362 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:51:47,372 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:51:47,373 - Civis - Making dataset. - make_dataset - INFO - Running task: truncate destination tables
+2020-08-06 20:51:47,480 - Civis - Making dataset. - make_dataset - INFO - truncate destination tables successful
+2020-08-06 20:51:47,481 - Civis Project Main - main - INFO - Time taken for executing truncate destination tables: 3.3090048366122776e-05 hours.
+2020-08-06 20:51:47,482 - Civis Project Main - main - INFO - Executing ./sql/inspection_etl.sql
+2020-08-06 20:51:47,482 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:51:47,483 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:51:47,497 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:51:47,497 - Civis - Making dataset. - make_dataset - INFO - Running task: inspection etl
+2020-08-06 20:51:47,804 - Civis - Making dataset. - make_dataset - INFO - inspection etl successful
+2020-08-06 20:51:47,804 - Civis Project Main - main - INFO - Time taken for executing inspection etl: 8.958902623918322e-05 hours.
+2020-08-06 20:51:47,804 - Civis Project Main - main - INFO - Executing ./sql/license_etl.sql
+2020-08-06 20:51:47,805 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:51:47,805 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:51:47,819 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:51:47,819 - Civis - Making dataset. - make_dataset - INFO - Running task: license etl
+2020-08-06 20:51:47,820 - Civis - Making dataset. - make_dataset - INFO - license etl successful
+2020-08-06 20:52:22,220 - Civis Project Main - main - INFO - Creating Dataset in local Postgres...
+2020-08-06 20:52:22,220 - Civis - Making dataset. - make_dataset - INFO - Executing ./sql/create_raw_tables.sql
+2020-08-06 20:52:22,221 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:52:22,221 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:52:22,235 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:52:22,235 - Civis - Making dataset. - make_dataset - INFO - Running task: create raw tables
+2020-08-06 20:52:22,236 - Civis - Making dataset. - make_dataset - INFO - create raw tables successful
+2020-08-06 20:52:22,236 - Civis Project Main - main - INFO - Time taken for executing create raw tables: 4.368954234653049e-06 hours.
+2020-08-06 20:52:22,236 - Civis - Making dataset. - make_dataset - INFO - Executing ./sql/truncate_tables.sql
+2020-08-06 20:52:22,236 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:52:22,237 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:52:22,245 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:52:22,245 - Civis - Making dataset. - make_dataset - INFO - Running task: truncate tables creation
+2020-08-06 20:52:22,373 - Civis - Making dataset. - make_dataset - INFO - truncate tables creation successful
+2020-08-06 20:52:22,374 - Civis Project Main - main - INFO - Time taken for executing truncate tables creation: 3.812538252936469e-05 hours.
+2020-08-06 20:52:22,374 - Civis - Making dataset. - make_dataset - INFO - Executing ./sql/load_raw_tables.sql
+2020-08-06 20:52:22,375 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:52:22,375 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:52:22,389 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:52:22,389 - Civis - Making dataset. - make_dataset - INFO - Running task: load raw tables
+2020-08-06 20:52:22,519 - Civis - Making dataset. - make_dataset - INFO - load raw tables successful
+2020-08-06 20:52:22,519 - Civis Project Main - main - INFO - Time taken for executing load raw tables: 4.027167956034342e-05 hours.
+2020-08-06 20:52:22,519 - Civis - Making dataset. - make_dataset - INFO - Executing ./sql/create_destination_tables.sql
+2020-08-06 20:52:22,519 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:52:22,520 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:52:22,532 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:52:22,532 - Civis - Making dataset. - make_dataset - INFO - Running task: destination tables creation
+2020-08-06 20:52:22,533 - Civis - Making dataset. - make_dataset - INFO - destination tables creation successful
+2020-08-06 20:52:22,533 - Civis Project Main - main - INFO - Time taken for executing destination tables creation: 3.881984286838108e-06 hours.
+2020-08-06 20:52:22,533 - Civis - Making dataset. - make_dataset - INFO - Executing ./sql/truncate_destination_tables.sql
+2020-08-06 20:52:22,533 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:52:22,534 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:52:22,540 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:52:22,541 - Civis - Making dataset. - make_dataset - INFO - Running task: truncate destination tables
+2020-08-06 20:52:22,647 - Civis - Making dataset. - make_dataset - INFO - truncate destination tables successful
+2020-08-06 20:52:22,647 - Civis Project Main - main - INFO - Time taken for executing truncate destination tables: 3.1564235687255856e-05 hours.
+2020-08-06 20:52:22,647 - Civis - Making dataset. - make_dataset - INFO - Executing ./sql/inspection_etl.sql
+2020-08-06 20:52:22,648 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:52:22,648 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:52:22,662 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:52:22,662 - Civis - Making dataset. - make_dataset - INFO - Running task: inspection etl
+2020-08-06 20:52:23,248 - Civis - Making dataset. - make_dataset - INFO - inspection etl successful
+2020-08-06 20:52:23,249 - Civis Project Main - main - INFO - Time taken for executing inspection etl: 0.00016713745064205593 hours.
+2020-08-06 20:52:23,250 - Civis - Making dataset. - make_dataset - INFO - Executing ./sql/license_etl.sql
+2020-08-06 20:52:23,250 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:52:23,251 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:52:23,266 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:52:23,266 - Civis - Making dataset. - make_dataset - INFO - Running task: license etl
+2020-08-06 20:52:23,267 - Civis - Making dataset. - make_dataset - INFO - license etl successful
+2020-08-06 20:52:52,646 - Civis Project Main - main - INFO - Creating Dataset in local Postgres...
+2020-08-06 20:52:52,647 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/create_raw_tables.sql
+2020-08-06 20:52:52,647 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:52:52,647 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:52:52,660 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:52:52,660 - Civis - Making dataset. - make_dataset - INFO - Running task: create raw tables
+2020-08-06 20:52:52,661 - Civis - Making dataset. - make_dataset - INFO - create raw tables successful
+2020-08-06 20:52:52,662 - Civis Project Main - main - INFO - Time taken for executing create raw tables: 4.1337145699395075e-06 hours.
+2020-08-06 20:52:52,662 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/truncate_tables.sql
+2020-08-06 20:52:52,662 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:52:52,662 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:52:52,672 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:52:52,673 - Civis - Making dataset. - make_dataset - INFO - Running task: truncate tables creation
+2020-08-06 20:52:52,783 - Civis - Making dataset. - make_dataset - INFO - truncate tables creation successful
+2020-08-06 20:52:52,783 - Civis Project Main - main - INFO - Time taken for executing truncate tables creation: 3.373516930474176e-05 hours.
+2020-08-06 20:52:52,783 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/load_raw_tables.sql
+2020-08-06 20:52:52,783 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:52:52,784 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:52:52,793 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:52:52,793 - Civis - Making dataset. - make_dataset - INFO - Running task: load raw tables
+2020-08-06 20:52:52,930 - Civis - Making dataset. - make_dataset - INFO - load raw tables successful
+2020-08-06 20:52:52,930 - Civis Project Main - main - INFO - Time taken for executing load raw tables: 4.087785879770915e-05 hours.
+2020-08-06 20:52:52,931 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/create_destination_tables.sql
+2020-08-06 20:52:52,931 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:52:52,932 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:52:52,943 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:52:52,944 - Civis - Making dataset. - make_dataset - INFO - Running task: destination tables creation
+2020-08-06 20:52:52,945 - Civis - Making dataset. - make_dataset - INFO - destination tables creation successful
+2020-08-06 20:52:52,946 - Civis Project Main - main - INFO - Time taken for executing destination tables creation: 4.071195920308431e-06 hours.
+2020-08-06 20:52:52,946 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/truncate_destination_tables.sql
+2020-08-06 20:52:52,946 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:52:52,946 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:52:52,955 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:52:52,955 - Civis - Making dataset. - make_dataset - INFO - Running task: truncate destination tables
+2020-08-06 20:52:53,074 - Civis - Making dataset. - make_dataset - INFO - truncate destination tables successful
+2020-08-06 20:52:53,075 - Civis Project Main - main - INFO - Time taken for executing truncate destination tables: 3.5812854766845705e-05 hours.
+2020-08-06 20:52:53,075 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/inspection_etl.sql
+2020-08-06 20:52:53,075 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:52:53,076 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:52:53,087 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:52:53,088 - Civis - Making dataset. - make_dataset - INFO - Running task: inspection etl
+2020-08-06 20:52:53,378 - Civis - Making dataset. - make_dataset - INFO - inspection etl successful
+2020-08-06 20:52:53,379 - Civis Project Main - main - INFO - Time taken for executing inspection etl: 8.429977628919814e-05 hours.
+2020-08-06 20:52:53,379 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/license_etl.sql
+2020-08-06 20:52:53,379 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:52:53,380 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:52:53,396 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:52:53,396 - Civis - Making dataset. - make_dataset - INFO - Running task: license etl
+2020-08-06 20:52:53,398 - Civis - Making dataset. - make_dataset - INFO - license etl successful
+2020-08-06 20:56:51,034 - Civis Project Main - main - INFO - Creating Dataset in local Postgres...
+2020-08-06 20:56:51,034 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/create_raw_tables.sql
+2020-08-06 20:56:51,034 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:56:51,034 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:56:51,045 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:56:51,045 - Civis - Making dataset. - make_dataset - INFO - Running task: create raw tables
+2020-08-06 20:56:51,046 - Civis - Making dataset. - make_dataset - INFO - create raw tables successful
+2020-08-06 20:56:51,047 - Civis Project Main - main - INFO - Time taken for executing create raw tables: 3.535681300693088e-06 hours.
+2020-08-06 20:56:51,047 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/truncate_tables.sql
+2020-08-06 20:56:51,047 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:56:51,047 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:56:51,056 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:56:51,056 - Civis - Making dataset. - make_dataset - INFO - Running task: truncate tables creation
+2020-08-06 20:56:51,168 - Civis - Making dataset. - make_dataset - INFO - truncate tables creation successful
+2020-08-06 20:56:51,169 - Civis Project Main - main - INFO - Time taken for executing truncate tables creation: 3.4058954980638294e-05 hours.
+2020-08-06 20:56:51,170 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/load_raw_tables.sql
+2020-08-06 20:56:51,170 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:56:51,171 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:56:51,182 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:56:51,182 - Civis - Making dataset. - make_dataset - INFO - Running task: load raw tables
+2020-08-06 20:56:51,287 - Civis - Making dataset. - make_dataset - INFO - load raw tables successful
+2020-08-06 20:56:51,287 - Civis Project Main - main - INFO - Time taken for executing load raw tables: 3.258082601759169e-05 hours.
+2020-08-06 20:56:51,288 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/create_destination_tables.sql
+2020-08-06 20:56:51,288 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:56:51,288 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:56:51,301 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:56:51,302 - Civis - Making dataset. - make_dataset - INFO - Running task: destination tables creation
+2020-08-06 20:56:51,303 - Civis - Making dataset. - make_dataset - INFO - destination tables creation successful
+2020-08-06 20:56:51,303 - Civis Project Main - main - INFO - Time taken for executing destination tables creation: 4.27862008412679e-06 hours.
+2020-08-06 20:56:51,303 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/truncate_destination_tables.sql
+2020-08-06 20:56:51,303 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:56:51,303 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:56:51,310 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:56:51,310 - Civis - Making dataset. - make_dataset - INFO - Running task: truncate destination tables
+2020-08-06 20:56:51,431 - Civis - Making dataset. - make_dataset - INFO - truncate destination tables successful
+2020-08-06 20:56:51,432 - Civis Project Main - main - INFO - Time taken for executing truncate destination tables: 3.583550453186035e-05 hours.
+2020-08-06 20:56:51,433 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/inspection_etl.sql
+2020-08-06 20:56:51,433 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:56:51,434 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:56:51,447 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:56:51,447 - Civis - Making dataset. - make_dataset - INFO - Running task: inspection etl
+2020-08-06 20:56:51,737 - Civis - Making dataset. - make_dataset - INFO - inspection etl successful
+2020-08-06 20:56:51,738 - Civis Project Main - main - INFO - Time taken for executing inspection etl: 8.483820491366917e-05 hours.
+2020-08-06 20:56:51,738 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/license_etl.sql
+2020-08-06 20:56:51,738 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 20:56:51,739 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 20:56:51,753 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 20:56:51,753 - Civis - Making dataset. - make_dataset - INFO - Running task: license etl
+2020-08-06 20:56:56,341 - Civis - Making dataset. - make_dataset - INFO - license etl successful
+2020-08-06 20:56:56,341 - Civis Project Main - main - INFO - Time taken for executing license etl: 0.0012785171137915717 hours.
+2020-08-06 20:56:56,341 - Civis Project Main - main - INFO - Time taken for ETL for loading  table: 0.0014747803078757392 hours.
+2020-08-06 21:08:38,146 - Civis Project Main - main - INFO - Creating Dataset in local Postgres...
+2020-08-06 21:08:38,147 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/create_raw_tables.sql
+2020-08-06 21:08:38,147 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:08:38,147 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:08:38,159 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:08:38,159 - Civis - Making dataset. - make_dataset - INFO - Running task: create raw tables
+2020-08-06 21:08:38,160 - Civis - Making dataset. - make_dataset - INFO - create raw tables successful
+2020-08-06 21:08:38,160 - Civis Project Main - main - INFO - Time taken for executing create raw tables: 3.7707885106404624e-06 hours.
+2020-08-06 21:08:38,160 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/truncate_tables.sql
+2020-08-06 21:08:38,160 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:08:38,161 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:08:38,168 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:08:38,168 - Civis - Making dataset. - make_dataset - INFO - Running task: truncate tables creation
+2020-08-06 21:08:38,309 - Civis - Making dataset. - make_dataset - INFO - truncate tables creation successful
+2020-08-06 21:08:38,311 - Civis Project Main - main - INFO - Time taken for executing truncate tables creation: 4.168530305226644e-05 hours.
+2020-08-06 21:08:38,311 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/load_raw_tables.sql
+2020-08-06 21:08:38,311 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:08:38,312 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:08:38,324 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:08:38,324 - Civis - Making dataset. - make_dataset - INFO - Running task: load raw tables
+2020-08-06 21:08:38,447 - Civis - Making dataset. - make_dataset - INFO - load raw tables successful
+2020-08-06 21:08:38,448 - Civis Project Main - main - INFO - Time taken for executing load raw tables: 3.8021074401007755e-05 hours.
+2020-08-06 21:08:38,448 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/create_destination_tables.sql
+2020-08-06 21:08:38,449 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:08:38,449 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:08:38,464 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:08:38,464 - Civis - Making dataset. - make_dataset - INFO - Running task: destination tables creation
+2020-08-06 21:08:38,465 - Civis - Making dataset. - make_dataset - INFO - destination tables creation successful
+2020-08-06 21:08:38,466 - Civis Project Main - main - INFO - Time taken for executing destination tables creation: 4.864599969651964e-06 hours.
+2020-08-06 21:08:38,466 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/truncate_destination_tables.sql
+2020-08-06 21:08:38,466 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:08:38,466 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:08:38,476 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:08:38,476 - Civis - Making dataset. - make_dataset - INFO - Running task: truncate destination tables
+2020-08-06 21:08:38,643 - Civis - Making dataset. - make_dataset - INFO - truncate destination tables successful
+2020-08-06 21:08:38,643 - Civis Project Main - main - INFO - Time taken for executing truncate destination tables: 4.925860299004449e-05 hours.
+2020-08-06 21:08:38,644 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/inspection_etl.sql
+2020-08-06 21:08:38,644 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:08:38,644 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:08:38,658 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:08:38,658 - Civis - Making dataset. - make_dataset - INFO - Running task: inspection etl
+2020-08-06 21:08:38,978 - Civis - Making dataset. - make_dataset - INFO - inspection etl successful
+2020-08-06 21:08:38,979 - Civis Project Main - main - INFO - Time taken for executing inspection etl: 9.318537182278103e-05 hours.
+2020-08-06 21:08:38,980 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/license_etl.sql
+2020-08-06 21:08:38,980 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:08:38,981 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:08:38,994 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:08:38,994 - Civis - Making dataset. - make_dataset - INFO - Running task: license etl
+2020-08-06 21:08:43,562 - Civis - Making dataset. - make_dataset - INFO - license etl successful
+2020-08-06 21:08:43,562 - Civis Project Main - main - INFO - Time taken for executing license etl: 0.001272930039299859 hours.
+2020-08-06 21:08:43,563 - Civis Project Main - main - INFO - Time taken for ETL for loading  table: 0.0015049400594499376 hours.
+2020-08-06 21:08:59,189 - Civis Project Main - main - INFO - Creating Dataset in local Postgres...
+2020-08-06 21:08:59,189 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/create_raw_tables.sql
+2020-08-06 21:08:59,189 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:08:59,190 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:08:59,200 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:08:59,200 - Civis - Making dataset. - make_dataset - INFO - Running task: create raw tables
+2020-08-06 21:08:59,201 - Civis - Making dataset. - make_dataset - INFO - create raw tables successful
+2020-08-06 21:08:59,201 - Civis Project Main - main - INFO - Time taken for executing create raw tables: 3.3238861295912002e-06 hours.
+2020-08-06 21:08:59,201 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/truncate_tables.sql
+2020-08-06 21:08:59,202 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:08:59,202 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:08:59,209 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:08:59,209 - Civis - Making dataset. - make_dataset - INFO - Running task: truncate tables creation
+2020-08-06 21:08:59,330 - Civis - Making dataset. - make_dataset - INFO - truncate tables creation successful
+2020-08-06 21:08:59,331 - Civis Project Main - main - INFO - Time taken for executing truncate tables creation: 3.610041406419542e-05 hours.
+2020-08-06 21:08:59,332 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/load_raw_tables.sql
+2020-08-06 21:08:59,332 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:08:59,333 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:08:59,347 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:08:59,348 - Civis - Making dataset. - make_dataset - INFO - Running task: load raw tables
+2020-08-06 21:08:59,479 - Civis - Making dataset. - make_dataset - INFO - load raw tables successful
+2020-08-06 21:08:59,480 - Civis Project Main - main - INFO - Time taken for executing load raw tables: 4.118290212419298e-05 hours.
+2020-08-06 21:08:59,481 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/create_destination_tables.sql
+2020-08-06 21:08:59,481 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:08:59,482 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:08:59,494 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:08:59,495 - Civis - Making dataset. - make_dataset - INFO - Running task: destination tables creation
+2020-08-06 21:08:59,495 - Civis - Making dataset. - make_dataset - INFO - destination tables creation successful
+2020-08-06 21:08:59,496 - Civis Project Main - main - INFO - Time taken for executing destination tables creation: 4.168682628207736e-06 hours.
+2020-08-06 21:08:59,496 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/truncate_destination_tables.sql
+2020-08-06 21:08:59,496 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:08:59,496 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:08:59,508 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:08:59,508 - Civis - Making dataset. - make_dataset - INFO - Running task: truncate destination tables
+2020-08-06 21:08:59,625 - Civis - Making dataset. - make_dataset - INFO - truncate destination tables successful
+2020-08-06 21:08:59,625 - Civis Project Main - main - INFO - Time taken for executing truncate destination tables: 3.5883850521511505e-05 hours.
+2020-08-06 21:08:59,625 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/inspection_etl.sql
+2020-08-06 21:08:59,625 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:08:59,626 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:08:59,637 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:08:59,637 - Civis - Making dataset. - make_dataset - INFO - Running task: inspection etl
+2020-08-06 21:08:59,934 - Civis - Making dataset. - make_dataset - INFO - inspection etl successful
+2020-08-06 21:08:59,935 - Civis Project Main - main - INFO - Time taken for executing inspection etl: 8.605420589447021e-05 hours.
+2020-08-06 21:08:59,935 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/license_etl.sql
+2020-08-06 21:08:59,936 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:08:59,936 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:08:59,953 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:08:59,953 - Civis - Making dataset. - make_dataset - INFO - Running task: license etl
+2020-08-06 21:09:55,450 - Civis Project Main - main - INFO - Creating Dataset in local Postgres...
+2020-08-06 21:09:55,450 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/create_raw_tables.sql
+2020-08-06 21:09:55,451 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:09:55,451 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:09:55,462 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:09:55,462 - Civis - Making dataset. - make_dataset - INFO - Running task: create raw tables
+2020-08-06 21:09:55,463 - Civis - Making dataset. - make_dataset - INFO - create raw tables successful
+2020-08-06 21:09:55,463 - Civis Project Main - main - INFO - Time taken for executing create raw tables: 3.565351168314616e-06 hours.
+2020-08-06 21:09:55,463 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/truncate_tables.sql
+2020-08-06 21:09:55,463 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:09:55,464 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:09:55,473 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:09:55,474 - Civis - Making dataset. - make_dataset - INFO - Running task: truncate tables creation
+2020-08-06 21:09:55,594 - Civis - Making dataset. - make_dataset - INFO - truncate tables creation successful
+2020-08-06 21:09:55,595 - Civis Project Main - main - INFO - Time taken for executing truncate tables creation: 3.647949960496691e-05 hours.
+2020-08-06 21:09:55,595 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/load_raw_tables.sql
+2020-08-06 21:09:55,595 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:09:55,595 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:09:55,605 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:09:55,605 - Civis - Making dataset. - make_dataset - INFO - Running task: load raw tables
+2020-08-06 21:09:55,727 - Civis - Making dataset. - make_dataset - INFO - load raw tables successful
+2020-08-06 21:09:55,728 - Civis Project Main - main - INFO - Time taken for executing load raw tables: 3.7050247192382814e-05 hours.
+2020-08-06 21:09:55,729 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/create_destination_tables.sql
+2020-08-06 21:09:55,729 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:09:55,729 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:09:55,745 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:09:55,745 - Civis - Making dataset. - make_dataset - INFO - Running task: destination tables creation
+2020-08-06 21:09:55,746 - Civis - Making dataset. - make_dataset - INFO - destination tables creation successful
+2020-08-06 21:09:55,746 - Civis Project Main - main - INFO - Time taken for executing destination tables creation: 4.871487617492676e-06 hours.
+2020-08-06 21:09:55,746 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/truncate_destination_tables.sql
+2020-08-06 21:09:55,746 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:09:55,747 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:09:55,755 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:09:55,756 - Civis - Making dataset. - make_dataset - INFO - Running task: truncate destination tables
+2020-08-06 21:09:55,870 - Civis - Making dataset. - make_dataset - INFO - truncate destination tables successful
+2020-08-06 21:09:55,870 - Civis Project Main - main - INFO - Time taken for executing truncate destination tables: 3.43951251771715e-05 hours.
+2020-08-06 21:09:55,870 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/inspection_etl.sql
+2020-08-06 21:09:55,870 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:09:55,871 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:09:55,880 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:09:55,880 - Civis - Making dataset. - make_dataset - INFO - Running task: inspection etl
+2020-08-06 21:09:56,157 - Civis - Making dataset. - make_dataset - INFO - inspection etl successful
+2020-08-06 21:09:56,158 - Civis Project Main - main - INFO - Time taken for executing inspection etl: 7.995665073394776e-05 hours.
+2020-08-06 21:09:56,159 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/license_etl.sql
+2020-08-06 21:09:56,159 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:09:56,159 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:09:56,176 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:09:56,177 - Civis - Making dataset. - make_dataset - INFO - Running task: license etl
+2020-08-06 21:09:56,178 - Civis - Making dataset. - make_dataset - ERROR - Some error in executing ./sql/license_etl.sql
+2020-08-06 21:09:56,178 - Civis - Making dataset. - make_dataset - INFO - license etl failed
+2020-08-06 21:09:56,178 - Civis Project Main - main - INFO - Time taken for executing license etl: 5.529390441046821e-06 hours.
+2020-08-06 21:09:56,179 - Civis Project Main - main - INFO - Time taken for ETL for loading  table: 0.00020284122890896269 hours.
+2020-08-06 21:10:46,451 - Civis Project Main - main - INFO - Creating Dataset in local Postgres...
+2020-08-06 21:10:46,451 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/create_raw_tables.sql
+2020-08-06 21:10:46,451 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:10:46,451 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:10:46,462 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:10:46,462 - Civis - Making dataset. - make_dataset - INFO - Running task: create raw tables
+2020-08-06 21:10:46,463 - Civis - Making dataset. - make_dataset - INFO - create raw tables successful
+2020-08-06 21:10:46,463 - Civis Project Main - main - INFO - Time taken for executing create raw tables: 3.3874644173516167e-06 hours.
+2020-08-06 21:10:46,463 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/truncate_tables.sql
+2020-08-06 21:10:46,464 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:10:46,464 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:10:46,473 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:10:46,473 - Civis - Making dataset. - make_dataset - INFO - Running task: truncate tables creation
+2020-08-06 21:10:46,592 - Civis - Making dataset. - make_dataset - INFO - truncate tables creation successful
+2020-08-06 21:10:46,593 - Civis Project Main - main - INFO - Time taken for executing truncate tables creation: 3.595040904151069e-05 hours.
+2020-08-06 21:10:46,593 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/load_raw_tables.sql
+2020-08-06 21:10:46,593 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:10:46,594 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:10:46,606 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:10:46,606 - Civis - Making dataset. - make_dataset - INFO - Running task: load raw tables
+2020-08-06 21:10:46,739 - Civis - Making dataset. - make_dataset - INFO - load raw tables successful
+2020-08-06 21:10:46,740 - Civis Project Main - main - INFO - Time taken for executing load raw tables: 4.0858851538764104e-05 hours.
+2020-08-06 21:10:46,741 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/create_destination_tables.sql
+2020-08-06 21:10:46,741 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:10:46,742 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:10:46,754 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:10:46,754 - Civis - Making dataset. - make_dataset - INFO - Running task: destination tables creation
+2020-08-06 21:10:46,755 - Civis - Making dataset. - make_dataset - INFO - destination tables creation successful
+2020-08-06 21:10:46,756 - Civis Project Main - main - INFO - Time taken for executing destination tables creation: 4.132787386576335e-06 hours.
+2020-08-06 21:10:46,756 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/truncate_destination_tables.sql
+2020-08-06 21:10:46,756 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:10:46,756 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:10:46,763 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:10:46,763 - Civis - Making dataset. - make_dataset - INFO - Running task: truncate destination tables
+2020-08-06 21:10:46,926 - Civis - Making dataset. - make_dataset - INFO - truncate destination tables successful
+2020-08-06 21:10:46,927 - Civis Project Main - main - INFO - Time taken for executing truncate destination tables: 4.7495166460673016e-05 hours.
+2020-08-06 21:10:46,927 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/inspection_etl.sql
+2020-08-06 21:10:46,928 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:10:46,928 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:10:46,944 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:10:46,944 - Civis - Making dataset. - make_dataset - INFO - Running task: inspection etl
+2020-08-06 21:10:47,236 - Civis - Making dataset. - make_dataset - INFO - inspection etl successful
+2020-08-06 21:10:47,237 - Civis Project Main - main - INFO - Time taken for executing inspection etl: 8.611533376905653e-05 hours.
+2020-08-06 21:10:47,238 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/license_etl.sql
+2020-08-06 21:10:47,238 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:10:47,239 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:10:47,253 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:10:47,254 - Civis - Making dataset. - make_dataset - INFO - Running task: license etl
+2020-08-06 21:10:47,254 - Civis - Making dataset. - make_dataset - ERROR - Some error in executing ./sql/license_etl.sql
+2020-08-06 21:10:47,255 - Civis - Making dataset. - make_dataset - INFO - ********license etl failed *********
+2020-08-06 21:10:47,255 - Civis Project Main - main - INFO - Time taken for executing license etl: 4.800028271145291e-06 hours.
+2020-08-06 21:10:47,255 - Civis Project Main - main - INFO - Time taken for ETL for loading  table: 0.00022381967968410915 hours.
+2020-08-06 21:11:16,919 - Civis Project Main - main - INFO - Creating Dataset in local Postgres...
+2020-08-06 21:11:16,919 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/create_raw_tables.sql
+2020-08-06 21:11:16,919 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:11:16,919 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:11:16,929 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:11:16,930 - Civis - Making dataset. - make_dataset - INFO - Running task: create raw tables
+2020-08-06 21:11:16,931 - Civis - Making dataset. - make_dataset - INFO - create raw tables successful
+2020-08-06 21:11:16,931 - Civis Project Main - main - INFO - Time taken for executing create raw tables: 3.3601787355211045e-06 hours.
+2020-08-06 21:11:16,931 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/truncate_tables.sql
+2020-08-06 21:11:16,931 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:11:16,932 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:11:16,939 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:11:16,940 - Civis - Making dataset. - make_dataset - INFO - Running task: truncate tables creation
+2020-08-06 21:11:17,060 - Civis - Making dataset. - make_dataset - INFO - truncate tables creation successful
+2020-08-06 21:11:17,061 - Civis Project Main - main - INFO - Time taken for executing truncate tables creation: 3.602431880103217e-05 hours.
+2020-08-06 21:11:17,062 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/load_raw_tables.sql
+2020-08-06 21:11:17,062 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:11:17,063 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:11:17,073 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:11:17,073 - Civis - Making dataset. - make_dataset - INFO - Running task: load raw tables
+2020-08-06 21:11:17,186 - Civis - Making dataset. - make_dataset - INFO - load raw tables successful
+2020-08-06 21:11:17,187 - Civis Project Main - main - INFO - Time taken for executing load raw tables: 3.483381536271837e-05 hours.
+2020-08-06 21:11:17,187 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/create_destination_tables.sql
+2020-08-06 21:11:17,188 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:11:17,188 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:11:17,201 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:11:17,201 - Civis - Making dataset. - make_dataset - INFO - Running task: destination tables creation
+2020-08-06 21:11:17,202 - Civis - Making dataset. - make_dataset - INFO - destination tables creation successful
+2020-08-06 21:11:17,202 - Civis Project Main - main - INFO - Time taken for executing destination tables creation: 4.032651583353678e-06 hours.
+2020-08-06 21:11:17,202 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/truncate_destination_tables.sql
+2020-08-06 21:11:17,202 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:11:17,202 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:11:17,211 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:11:17,211 - Civis - Making dataset. - make_dataset - INFO - Running task: truncate destination tables
+2020-08-06 21:11:17,323 - Civis - Making dataset. - make_dataset - INFO - truncate destination tables successful
+2020-08-06 21:11:17,324 - Civis Project Main - main - INFO - Time taken for executing truncate destination tables: 3.376245498657227e-05 hours.
+2020-08-06 21:11:17,324 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/inspection_etl.sql
+2020-08-06 21:11:17,324 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:11:17,324 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:11:17,339 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:11:17,339 - Civis - Making dataset. - make_dataset - INFO - Running task: inspection etl
+2020-08-06 21:11:17,641 - Civis - Making dataset. - make_dataset - INFO - inspection etl successful
+2020-08-06 21:11:17,642 - Civis Project Main - main - INFO - Time taken for executing inspection etl: 8.850680457221137e-05 hours.
+2020-08-06 21:11:17,643 - Civis - Making dataset. - make_dataset - INFO - 
+
+Executing ./sql/license_etl.sql
+2020-08-06 21:11:17,643 - Civis - Making dataset. - make_dataset - INFO - Creating the DB connection string.
+2020-08-06 21:11:17,644 - Civis - Making dataset. - make_dataset - INFO - Getting the connection handle using psycopg2
+2020-08-06 21:11:17,658 - Civis - Making dataset. - make_dataset - INFO - Got connection handle and set to autocommit
+2020-08-06 21:11:17,658 - Civis - Making dataset. - make_dataset - INFO - Running task: license etl
+2020-08-06 21:11:22,255 - Civis - Making dataset. - make_dataset - INFO - license etl successful
+2020-08-06 21:11:22,256 - Civis Project Main - main - INFO - Time taken for executing license etl: 0.0012813946273591784 hours.
+2020-08-06 21:11:22,256 - Civis Project Main - main - INFO - Time taken for ETL for loading  table: 0.0014830425050523545 hours.
